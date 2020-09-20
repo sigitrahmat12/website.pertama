@@ -1,7 +1,3 @@
 <code>
 x = 5;<br>
-y = 6;<br>
-z = x + y;
-</code>
-python
-Javascript
+y = 6;<br
